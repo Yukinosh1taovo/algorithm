@@ -1,2 +1,2 @@
 # algorithm
-some problems solved code write by cpp
+some problems solved  write by cpp
