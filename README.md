@@ -1,2 +1,2 @@
 # algorithm
-some problems solved code write by c艹
+some problems solved  write by c艹
